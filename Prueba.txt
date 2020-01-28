@@ -1,4 +1,4 @@
 Hola.
 Esta es mi primera practica usando git.
----------- INTEGRANTES----------
+
  	LINO SANCHEZ YERMIN.
